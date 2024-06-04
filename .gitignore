@@ -1,0 +1,9 @@
+Vagrantfile
+.vagrant/
+www/phpmyadmin
+include/
+index.php
+picture/
+admin/
+
+
